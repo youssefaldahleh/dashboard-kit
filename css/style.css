@@ -842,7 +842,7 @@ input:checked~.slider:before {
   }
 
   .account-form .input-box input {
-    min-width: 100%;
+    width: 100%;
   }
 }
 
