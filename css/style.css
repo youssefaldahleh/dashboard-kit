@@ -398,6 +398,7 @@ body {
 .box-nav ul li:hover {
   color: #000000;
   border-bottom: 2px solid #2773FF;
+
 }
 
 .box-active {
@@ -588,6 +589,7 @@ ul.dashboard {
 .Connections-box {
   min-width: 372px;
   position: relative;
+  padding-right: 0;
 
 }
 
